@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T07:03:43.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1Qxd3SflVnG-OLUGNKPp" version="15.7.0" type="github"><diagram id="bHac9BSvsB6QV2WlBebe" name="Page-1">zZXPT4MwFID/Go4mQBnOo8PpDi4mLtHMW6VvbV2hpOsG7K+3SPkVskQvjhOvX19f6deX1EFRUjwpnLG1JCAc3yWFgx4c3/cCPzSfipQ1ub0LakAVJzapAxt+BgtdS4+cwGGQqKUUmmdDGMs0hVgPGFZK5sO0nRTDXTNMYQQ2MRZj+s6JZjWdz9yOr4BT1uzsuXYmwU2yBQeGicx7CC0dFCkpdR0lRQSiktd4qdc9Xphtf0xBqn+zgHwtX7ZZsd0ztT9HdEHK8uPGVjlhcbQHfpaUpwa9ccgdPxSm9uJTmYhWkT2KLhs/OeMaNhmOq3FuesAkMZ0IM/JMiA9ZfSs7XgBpC5xAaSguHsRr9Zi+ApmAVqVJsQtQI9+21NwO8979WMR6V9MwbDuCtoU7aSaw3v7g0B85XJnKrcLrC/PdoTDkXtkYGhl7hVgqwlM6YW3BtRstGGlbGw/TEYbCifXZbCTsPo7l0ZxmOtJm3r9JM8PuufmZ6z3aaPkN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-09T14:03:46.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FUHYvHvLC_7SRPC_e2Xk" version="15.7.0" type="github">
+  <diagram id="bHac9BSvsB6QV2WlBebe" name="Page-1">
+    <mxGraphModel dx="2528" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="djEOYpxYkhrkzCgBdyyZ-1" value="Login View&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djEOYpxYkhrkzCgBdyyZ-2" target="djEOYpxYkhrkzCgBdyyZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djEOYpxYkhrkzCgBdyyZ-2" target="djEOYpxYkhrkzCgBdyyZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djEOYpxYkhrkzCgBdyyZ-2" value="Home View&lt;br&gt;Patient Information" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="30" y="310" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djEOYpxYkhrkzCgBdyyZ-3" target="ioRW-0gf4t0d7Wdpgmjv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djEOYpxYkhrkzCgBdyyZ-3" target="ioRW-0gf4t0d7Wdpgmjv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djEOYpxYkhrkzCgBdyyZ-3" value="Recording View&lt;br&gt;&lt;br&gt;Patient information&lt;br&gt;from Home view&lt;br&gt;&lt;br&gt;Keywords data&lt;br&gt;&lt;br&gt;Recording data&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="520" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="djEOYpxYkhrkzCgBdyyZ-4" value="Map View" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="250" y="630" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="djEOYpxYkhrkzCgBdyyZ-5" value="Account View" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="290" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioRW-0gf4t0d7Wdpgmjv-1" target="djEOYpxYkhrkzCgBdyyZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioRW-0gf4t0d7Wdpgmjv-1" target="djEOYpxYkhrkzCgBdyyZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-1" value="AuthContext&lt;br&gt;User defaults: Token&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-11" value="Player View" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioRW-0gf4t0d7Wdpgmjv-17" value="Upload audio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
